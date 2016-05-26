@@ -1,5 +1,6 @@
 # react-native-swipeout
 iOS-style swipeout buttons that appear from behind a component
+- this fork was created to include the width property
 
 ![swipeout preview](http://i.imgur.com/oCQLNFC.gif)
 
