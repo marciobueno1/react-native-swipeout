@@ -5,7 +5,7 @@ iOS-style swipeout buttons that appear from behind a component
 
 ## Installation
 ```
-npm install --save react-native-swipeout
+npm install --save marciobueno1/react-native-swipeout
 ```
 
 ## Usage example
@@ -44,6 +44,7 @@ left            | array  | Yes      | []        | swipeout buttons on left
 onOpen          | func   | Yes      |           |
 right           | array  | Yes      | []        | swipeout buttons on right
 scroll          | func   | Yes      |           | prevent parent scroll
+width           | number | Yes      | 0.2       | buttons width (number between 0 and 1)
 
 ##### Button props
 
